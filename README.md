@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gf675azxNAz2zDQ1vD/giphy.gif" width="100"/>
+  
   <div id="badges">
 <a href="https://www.linkedin.com/in/mercy-nzau/">
  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -34,6 +35,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, I solve problems on Codewars and Hacker Rank and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nzau-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mercy-nzau/)
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -52,6 +54,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" title="Rails" alt="Rails" width="40" height="40"/>;
   
 </div>
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nzaum&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nzaum&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
