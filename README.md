@@ -1,4 +1,29 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/gf675azxNAz2zDQ1vD/giphy.gif" width="100"/>
+</div>
+
+
+<div id="badges">
+<a href="https://www.linkedin.com/in/mercy-nzau/">
+ <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="https://twitter.com/Merciee18?t=qMwGIxI5t4NcXeE61CfBhA&s=09">
+   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</a>
+
+<!-- Portfolio -->
+
+
+</div>
+
+
 ### Hi there 👋
+
+
+
+
+
+
 
 <!--
 **NzauM/NzauM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
